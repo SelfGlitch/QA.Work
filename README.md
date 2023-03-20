@@ -2,8 +2,8 @@
 
 [Check-lists]
 
-[Bug-reports]
+[Test-cases]
 
-[Test-cases] 
+[Bug-reports]
 
 [Postman] (https://github.com/SelfGlitch/QA.Work/blob/main/Postman.md)
