@@ -1,5 +1,9 @@
 Здесь находятся примеры моих работ
 
-[Test-cases] (https://github.com/SelfGlitch/QA.Work/blob/main/Test%20cases)
+[Check-lists]
+
+[Bug-reports]
+
+[Test-cases] 
 
 [Postman] (https://github.com/SelfGlitch/QA.Work/blob/main/Postman.md)
